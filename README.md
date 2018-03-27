@@ -1,5 +1,5 @@
-# Data Enthusiast. 
-# Trying my hand at deep learning with Python
+Data Enthusiast. 
+Trying my hand at deep learning with Python
 
 # TV Script Generation #
 Dataset : Simpsons Script
