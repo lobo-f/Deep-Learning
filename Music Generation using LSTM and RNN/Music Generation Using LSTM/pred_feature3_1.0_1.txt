@@ -1,0 +1,42 @@
+X: 1 
+T:A and D 
+% Nottingham Music Database 
+P:AABBCC 
+S:Whitby Bentens 
+% Nottingham Music Database 
+S:EF 
+M:6/8 
+K:G 
+"G"d2d d^cd|e2B BAG| 
+"C"c2B "D/d+"c2A|"Em"G2B "Am"A2G|"D7"FGA DEF|"G"G3 G2:| P:B 
+g|"G"dBB Bcd|"C"efe e3|e2c e2c|"Gm"B2A B2A|BGE B2c|"G"d/23/2B/2g/2\ 
+  
+X: 119 
+T:Hitl Powftto'n Tep, via EF 
+M:6/8 
+K:Am 
+P:A 
+E|"A"A2A "E"BAB|"A"A3 A2:| 
+P:B 
+|:A|"D"Add "G"dcB|"D"A3 -AFG|"D7"FGA "G"B2A| 
+"G"d2B "D"cBA|"Em"B2E E3:: 
+"Em"B2e "Am"c2B|"D7"d2e "G"d2G|"Am"c2B A2G|"F7"AGA "G"G2:| 
+  
+X: 100 
+T:Magmer's Jig 
+% Nottingham Music Database 
+S:Trad, arr Phil Rowe 
+M:6/8 
+K:Am 
+"(E7)"e2E EFE|"D"D3 f2e|"D"dcd "A"AD|"G"B2c dBG|"D"A2A FGF| 
+"C"EGG FGG|"C"cGG AGB|"C"cdB "D7"ABA|"G"G3 -G2:: 
+B/2-d/2|"G"e2G "Am"cBA|"Em"B2A "A7"ABc| 
+"D"d2A F2A|"D"G2A A2c|"D"f2d f2a|"Em"g2f "A7"e2a|"D"fdd "A7"cBc|"D"d3 -d2:| 
+  
+X: 299 
+T:Sally Gonnin's BoNoery 
+% Nottingham Music Database 
+S:Trad, arr Phil Rowe 
+M:6/8 
+K:F 
+"D7"

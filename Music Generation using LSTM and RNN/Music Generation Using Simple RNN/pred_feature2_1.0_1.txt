@@ -1,0 +1,20 @@
+<start>
+X:1
+T: La Montfar=1
+M:C|
+K:D
+ze dcBA | BGEG B2GA | e2e2e2 g>gb> | "Cm"e2 !+!c3/2c/2 c2 BG][P:B] G2 zB/_=/2d/2 | ege | f3e |]
+<end>
+<saalto!g|G2g f2 | c2ec | cc Bc de B4 |
+zGz2 !BAG | d2B dcd | f>ed | A>c c>d d>c|d2 d>e|dB B>c|dc d=e|d2 df/2/|
+|:e2ef/d/e/f/|af ga|ba ff|dd da|f2e2 fefa ||
+|:gaB g2B2 | A2dc cdcc | f6 | (3eff A2G2 :|
+|BGF g2f:|2 dBG E2d|: bge dBA :|2 | BG G2 |
+w: O:i pesld we Care #113. Hast]AcA AFG | FGAA cBAA | B2G2 D2DF | G3G c2d2e2 | g2fe d2Bd |
+(3eeg ag a2 ba/b/ | gf ed|c/d/e a/f/e/c/ | de d/c/d/c/ | cBdB | B2B2 | d2e2 | df d>f | f>c d>f | d2c>B B>=B>B | A2G2B2 | B2B2B2 | (d2BG)|d D>G EG|
+FG ^FD |
+(g2c2 | d2e2 | e2e>f | a2f2 d2f2 |
+e2f2>e2 |
+|:fgf gag|fad ecA|1 BA/B/ DB | GBd e2e2 | d2d2 d>c | B2B>d e2 | dBdB | BBBB | B2z2B2 |
+Fd>d d>cd>c d>A | A2c2A2 | GBAG | G4 | e>dg>f | f3- | A>f | c2c c2c | (BA)G2F2 | A4 d2 | f2e2 | c4 (e2f) f2 z2 | (3g/e/c/) cc Bc f2 f=f | F4 |
+e3d | cBcB | AGA2 |
